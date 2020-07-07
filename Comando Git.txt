@@ -1,0 +1,13 @@
+1 - git init - (Inicializa o versionamento do projeto)
+
+2 - criar arquivo .gitignore e colocar dentro os nomes dos arquivos que não devem ser commitados.
+
+3 - git add * - (Enviar todos os arquivos para aréa temporaria.
+
+4 - git add -A - (Transfere todos os arquivos modificados para area temporaria).
+
+5 -  git add *.externsao - (Transferir arquivos de uma extensao especifica para area temporaria).
+
+6 - git commit - (transfere os arquivos da area temporaria para local).
+
+
